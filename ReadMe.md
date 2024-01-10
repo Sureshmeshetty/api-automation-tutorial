@@ -1,4 +1,4 @@
-## API Automation Tutorial.
+## API Automation Tutorial
 
 In this tutorial you are going to learn <b>How to Automate the REST API's in Java</b> using <b>RESTAssured Library</b>
 
